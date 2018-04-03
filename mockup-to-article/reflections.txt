@@ -7,3 +7,8 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+Learned new tags, formatting html.
+Yes, it has been so far.
+Nothing difficult yet.
+No strategies so far. Just a top to bottom approach to meet the requirements.
