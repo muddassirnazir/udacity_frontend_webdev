@@ -1,2 +1,6 @@
 # udacity_frontend_webdev
-coursework for the udacity frontend web developer nanodegree
+Projects for the udacity frontend web developer nanodegree.
+
+[x] Mockup to article
+[x] Animal trading cards
+[] Pixel Art Maker
